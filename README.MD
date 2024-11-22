@@ -6,12 +6,8 @@
 </p>
 
 <p align="center">
-    preview do podcast
+   [Ouça o podcast](src/podcastbyelevenlabs.mp3)
 </p>
-
-<div align="center">
-    <audio src="src/podcastbyelevenlabs.mp3" controls title="Podcast"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
